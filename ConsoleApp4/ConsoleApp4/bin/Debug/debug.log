@@ -1,0 +1,6 @@
+[0505/163601.294:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0505/163601.356:ERROR:exception_snapshot_win.cc(88)] thread ID 10684 not found in process
+[0505/163601.356:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0505/174405.059:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0505/174405.060:ERROR:exception_snapshot_win.cc(88)] thread ID 5468 not found in process
+[0505/174405.060:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed

@@ -1,0 +1,12 @@
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\WebDriver.dll
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\WebDriver.Support.dll
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\WebDriver.xml
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\WebDriver.Support.xml
+C:\Users\Dawid\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
